@@ -1,0 +1,2 @@
+docker build -t titanic_ml_app .
+docker run -p 5000:5000 titanic_ml_app
